@@ -1,6 +1,7 @@
 # Olá 👋, eu sou Daniel Santos
 
 💻 **Estudante de Análise e Desenvolvimento de Sistemas | Python & Backend**
+
 Brasil
 
 Sou estudante de **Análise e Desenvolvimento de Sistemas**, interessado em desenvolvimento de software, backend, APIs e automação.
